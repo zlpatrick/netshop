@@ -1,0 +1,5 @@
+c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\bin\NetShop.dll.config
+c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\bin\NetShop.dll
+c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\bin\NetShop.pdb
+c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\obj\Debug\NetShop.dll
+c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\obj\Debug\NetShop.pdb
