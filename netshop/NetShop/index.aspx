@@ -53,7 +53,168 @@
            </div>
            <div class="hot-items">
                <div class="hot-items-title">热销商品</div>
+               <div class="hot-items-area">
+                   <div class="hot-items-goods">
+                       <div class="hot-items-goods-row">
+                           <div class="hot-items-goods-column">
+                               <div class="hot-items-goods-column-title">
+                                   <span>米兔手机U盘升级版</span><br />
+                                   <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                               </div>
+                               <div class="hot-items-goods-column-img">
+                                   <img src="images/item.jpg" />
+                               </div>
+                           </div>
+                           <div class="hot-items-goods-column">
+                               <div class="hot-items-goods-column-title">
+                                   <span>米兔手机U盘升级版</span><br />
+                                   <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                               </div>
+                               <div class="hot-items-goods-column-img">
+                                   <img src="images/item.jpg" />
+                               </div>
+                           </div>
+                           <div class="hot-items-goods-column">
+                               <div class="hot-items-goods-column-title">
+                                   <span>米兔手机U盘升级版</span><br />
+                                   <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                               </div>
+                               <div class="hot-items-goods-column-img">
+                                   <img src="images/item.jpg" />
+                               </div>
+                           </div>
+                       </div>
+                       <div class="hot-items-goods-row hot-items-goods-row2" style="border-bottom:1px solid lightgrey">
+                           <div class="hot-items-goods-column">
+                               <div class="hot-items-goods-column-title">
+                                   <span>米兔手机U盘升级版</span><br />
+                                   <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                               </div>
+                               <div class="hot-items-goods-column-img">
+                                   <img src="images/item.jpg" />
+                               </div>
+                           </div>
+                           <div class="hot-items-goods-column">
+                               <div class="hot-items-goods-column-title">
+                                   <span>米兔手机U盘升级版</span><br />
+                                   <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                               </div>
+                               <div class="hot-items-goods-column-img">
+                                   <img src="images/item.jpg" />
+                               </div>
+                           </div>
+                           <div class="hot-items-goods-column">
+                               <div class="hot-items-goods-column-title">
+                                   <span>米兔手机U盘升级版</span><br />
+                                   <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                               </div>
+                               <div class="hot-items-goods-column-img">
+                                   <img src="images/item.jpg" />
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="hot-items-ranks">
+                       <div class="hot-items-ranks-title">HOT 热销商品排行</div>
+                       <div class="hot-items-ranks-good">
+                           <div class="hot-items-ranks-good-number">1</div> 
+                           <div class="hot-items-ranks-good-detail">
+                               <span class="hot-items-ranks-good-name">排名一商品</span>
+                               <br />
+                               <span class="hot-items-ranks-good-price">19.9元</span>
+                           </div>
+                           <div class="hot-items-ranks-good-img">img</div>
+                       </div>
+
+                       <div class="hot-items-ranks-good">
+                           <div class="hot-items-ranks-good-number">2</div> 
+                           <div class="hot-items-ranks-good-detail">
+                               <span class="hot-items-ranks-good-name">排名二商品</span>
+                               <br />
+                               <span class="hot-items-ranks-good-price">19.9元</span>
+                           </div>
+                           <div class="hot-items-ranks-good-img">img</div>
+                       </div>
+
+                       <div class="hot-items-ranks-good">
+                           <div class="hot-items-ranks-good-number">3</div> 
+                           <div class="hot-items-ranks-good-detail">
+                               <span class="hot-items-ranks-good-name">排名三商品</span>
+                               <br />
+                               <span class="hot-items-ranks-good-price">19.9元</span>
+                           </div>
+                           <div class="hot-items-ranks-good-img">img</div>
+                       </div>
+
+                       <div class="hot-items-ranks-good">
+                           <div class="hot-items-ranks-good-number">4</div> 
+                           <div class="hot-items-ranks-good-detail">
+                               <span class="hot-items-ranks-good-name">排名四商品</span>
+                               <br />
+                               <span class="hot-items-ranks-good-price">19.9元</span>
+                           </div>
+                           <div class="hot-items-ranks-good-img">img</div>
+                       </div>
+
+                       <div class="hot-items-ranks-good">
+                           <div class="hot-items-ranks-good-number">5</div> 
+                           <div class="hot-items-ranks-good-detail">
+                               <span class="hot-items-ranks-good-name">排名五商品</span>
+                               <br />
+                               <span class="hot-items-ranks-good-price">19.9元</span>
+                           </div>
+                           <div class="hot-items-ranks-good-img">img</div>
+                       </div>
+                   </div>
+
+               </div>
            </div>
+           <div class="special-items">
+               <div class="special-items-title">特价商品</div>
+               
+               <div class="special-items-goods">
+                   <div class="special-items-goods-row">
+                       <div class="special-items-goods-column">
+                           <div class="hot-items-goods-column-title">
+                               <span>米兔手机U盘升级版</span><br />
+                               <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                           </div>
+                           <div class="hot-items-goods-column-img">
+                               <img src="images/item.jpg" />
+                           </div>
+                       </div>
+                       <div class="special-items-goods-column">
+                           <div class="hot-items-goods-column-title">
+                               <span>米兔手机U盘升级版</span><br />
+                               <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                           </div>
+                           <div class="hot-items-goods-column-img">
+                               <img src="images/item.jpg" />
+                           </div>
+                       </div>
+                       <div class="special-items-goods-column">
+                           <div class="hot-items-goods-column-title">
+                               <span>米兔手机U盘升级版</span><br />
+                               <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                           </div>
+                           <div class="hot-items-goods-column-img">
+                               <img src="images/item.jpg" />
+                           </div>
+                       </div>
+                       <div class="special-items-goods-column" style="border-right:1px solid lightgrey;width:318px">
+                           <div class="hot-items-goods-column-title">
+                               <span>米兔手机U盘升级版</span><br />
+                               <span>29元</span> <span style="text-decoration:line-through;color:grey">39元</span>
+                           </div>
+                           <div class="hot-items-goods-column-img">
+                               <img src="images/item.jpg" />
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+           
+           <!-- #include file="footer.html" -->
         </div>
     </form>
 </body>

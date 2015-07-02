@@ -3,3 +3,9 @@ c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\bin\NetSh
 c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\bin\NetShop.pdb
 c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\obj\Debug\NetShop.dll
 c:\users\zhangpa\documents\visual studio 2013\Projects\NetShop\NetShop\obj\Debug\NetShop.pdb
+C:\Users\zhangpa\git\netshopFolder\netshop\NetShop\bin\NetShop.dll.config
+C:\Users\zhangpa\git\netshopFolder\netshop\NetShop\bin\NetShop.dll
+C:\Users\zhangpa\git\netshopFolder\netshop\NetShop\bin\NetShop.pdb
+C:\Users\zhangpa\git\netshopFolder\netshop\NetShop\obj\Debug\NetShop.csprojResolveAssemblyReference.cache
+C:\Users\zhangpa\git\netshopFolder\netshop\NetShop\obj\Debug\NetShop.dll
+C:\Users\zhangpa\git\netshopFolder\netshop\NetShop\obj\Debug\NetShop.pdb
